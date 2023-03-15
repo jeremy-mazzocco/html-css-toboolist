@@ -35,7 +35,7 @@ main {
 .main--upperblock {
     width: 100%;
     height: 50px;
-    background-color: rgba(229, 234, 238, 0.382);
+    background-color: rgba(229, 234, 238, -0.618);
 }
 
 .main--container {
